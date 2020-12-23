@@ -16,7 +16,7 @@ const varMiddleware = require('./middleware/variables')
 const userMiddleware = require('./middleware/user')
 
 
-const MONGODB_URI = 'mongodb+srv://OlegVasiliev:BOF4BXb2SG7xWCXF@cluster0.cu2jf.mongodb.net/olehdb'
+const MONGODB_URI = ''
 
 const app = express()
 
